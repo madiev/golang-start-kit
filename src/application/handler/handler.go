@@ -1,8 +1,8 @@
 package handler
 
 import (
-    "application/config"
-    "application/route"
+    "start_kit/src/application/config"
+    "start_kit/src/application/route"
     "net/http"
 )
 

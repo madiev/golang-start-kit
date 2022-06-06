@@ -1,8 +1,8 @@
 package main
 
 import (
-    "application/handler"
-    "application/config"
+    "start_kit/src/application/handler"
+    "start_kit/src/application/config"
     "encoding/json"
     "net/http"
     "strconv"
